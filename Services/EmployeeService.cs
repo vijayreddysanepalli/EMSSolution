@@ -5,8 +5,8 @@ using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
-using System.Net.Http.Formatting;
 using System.Linq;
+using System.Net.Http.Formatting;
 
 namespace EMS.Services
 {
